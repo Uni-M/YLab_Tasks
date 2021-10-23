@@ -4,6 +4,7 @@ public class Rabbit extends Animal{
 
     public Rabbit(String name) {
         super(name);
+        setSound(" ");
     }
 
     @Override

@@ -4,6 +4,7 @@ public class Dog extends Animal{
 
     public Dog(String name) {
         super(name);
+        setSound("Bow-Bow");
     }
 
     @Override
@@ -16,7 +17,7 @@ public class Dog extends Animal{
     @Override
     public void speak() {
         if (!getSleeping()){
-            System.out.println(getName() + " says Bow-Bow");
+            System.out.println(getName() + " says " + getSound());
         }
     }
 }

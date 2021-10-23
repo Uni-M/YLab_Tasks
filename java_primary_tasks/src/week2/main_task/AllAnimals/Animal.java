@@ -2,6 +2,7 @@ package week2.main_task.AllAnimals;
 
 public abstract class Animal {
     private String name;
+    private String sound;
     private boolean isEating = false;
     private boolean isSleeping = false;
 
@@ -40,5 +41,13 @@ public abstract class Animal {
 
     protected boolean getSleeping() {
         return isSleeping;
+    }
+
+    public String getSound() {
+        return sound;
+    }
+
+    protected void setSound(String sound) {
+        this.sound = sound;
     }
 }

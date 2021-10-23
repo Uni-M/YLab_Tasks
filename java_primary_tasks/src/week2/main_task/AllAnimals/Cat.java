@@ -5,7 +5,9 @@ public class Cat extends Animal{
 
     public Cat(String name) {
         super(name);
+        setSound("Mew-Mew");
     }
+
 
     @Override
     public void eat() {
@@ -17,7 +19,7 @@ public class Cat extends Animal{
     @Override
     public void speak() {
         if (!getSleeping()){
-            System.out.println(getName() + " says Mew-Mew");
+            System.out.println(getName() + " says " + getSound());
         }
     }
 }
