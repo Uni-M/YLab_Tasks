@@ -69,4 +69,8 @@ public class UserHandler extends DefaultHandler {
     public void characters(char[] ch, int start, int length) {
         currentValue += new String(ch, start, length).trim();
     }
+
+    public static ArrayList<Files> getFileList(){
+        return fileList;
+    }
 }
