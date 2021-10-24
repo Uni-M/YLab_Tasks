@@ -1,0 +1,22 @@
+ extended task:
+
+ For testing project use xml file named "test_files.xml" containing a representation of files hierarchy.
+ One node may be either file or directory, which is defined by attribute is-file
+
+ Implement command-line application which will output all full paths for the given input.
+ $ java -jar assignment.jar -f <xml_file> -s <input>
+ where <xml_file> is a path to the provided xml file; <input> is search string to filter paths with.
+
+ Example:
+ No search input:
+ $ java -jar assignment.jar -f test-files.xml
+ /file-776194140.xml
+ /dir-880176375/file-1073842118.java
+ /dir-880176375/dir-2145307015/file-1498940214.xhtml
+
+
+ Compilation and test environment
+ Prepare Maven project. It is allowed to use any libraries you might find useful; Java SE 8+ or
+ Kotlin.
+
+ Build should run without problems with Maven 3.5.0.
