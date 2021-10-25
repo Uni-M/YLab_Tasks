@@ -2,7 +2,8 @@ package week2.main_task.AllAnimals;
 
 public class Dog extends Animal{
 
-     String sound = "Bow-bow";
+    sound = "Bow-bow";
+
     @Override
     public void eat() {
         setEating(true);
