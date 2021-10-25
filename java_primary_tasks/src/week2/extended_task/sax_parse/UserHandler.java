@@ -11,8 +11,10 @@ public class UserHandler extends DefaultHandler {
     // List to hold File objects
     private static ArrayList<Files> fileList = new ArrayList<>();
 
+    // List to hold directory and files in it
     private static ArrayList<String> fileInDirectory = new ArrayList<>();
 
+    // Current file or directory
     private static String currentValue = "";
 
 
@@ -32,37 +34,29 @@ public class UserHandler extends DefaultHandler {
         if (qName.equalsIgnoreCase("name")) {
             if (!currentValue.equals("/")){
                 fileInDirectory.add(currentValue);
-
             }
             currentValue = "";
-
         }
-
         if (qName.equalsIgnoreCase("child")) {
-            if (Files.getIsFile() == true){
+            if (Files.getIsFile()){
                 Files files = new Files();
-                String fname = "";
-                for (int i = 0; i < fileInDirectory.size(); i++){
-                    fname += "/";
-                    fname += fileInDirectory.get(i);
+                StringBuilder file_name = new StringBuilder();
+                for (String s : fileInDirectory) {
+                    file_name.append("/");
+                    file_name.append(s);
                 }
-                files.setName(fname);
+                files.setName(file_name.toString());
                 fileList.add(files);
 
                 Files.setIsFile(false);
                 fileInDirectory.remove(fileInDirectory.size()-1);
-
             }
         }
-
         if (qName.equalsIgnoreCase("children")) {
-
             if (fileInDirectory.size() > 0){
                 fileInDirectory.remove(fileInDirectory.size()-1);
             }
         }
-
-
     }
 
     @Override

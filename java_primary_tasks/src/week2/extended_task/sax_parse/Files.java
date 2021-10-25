@@ -5,7 +5,7 @@ public class Files {
     //XML attribute (~~ is-file="true")
     private static boolean isFile = false;
 
-    //XML element (~~ file-77194797.xmml)
+    //XML element (~~ file-776194140.xml)
     private String Name;
 
     public static boolean getIsFile() {
