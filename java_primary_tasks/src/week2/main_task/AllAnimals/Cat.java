@@ -2,12 +2,8 @@ package week2.main_task.AllAnimals;
 
 
 public class Cat extends Animal{
-
-    public Cat(String name) {
-        super(name);
-        setSound("Mew-Mew");
-    }
-
+    
+    String sound = "Mew-mew";
 
     @Override
     public void eat() {
@@ -18,7 +14,7 @@ public class Cat extends Animal{
     @Override
     public void speak() {
         if (!getSleeping()){
-            System.out.println(getSound());
+            System.out.println(sound);
         }
     }
 }
