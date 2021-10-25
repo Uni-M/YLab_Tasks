@@ -10,27 +10,27 @@ import week2.main_task.AllAnimals.*;
 
 public class Main {
     public static void main(String[] args) {
-        Cat murka = new Cat("Murka");
+        Cat murka = new Cat();
         murka.eat();
         murka.sleep();
         murka.speak();
 
 
 
-        Dog fido = new Dog("Fido");
+        Dog fido = new Dog();
         fido.eat();
         fido.speak();
         fido.sleep();
         fido.speak();
 
-        Fish bob = new Fish("Bob");
+        Fish bob = new Fish();
         bob.eat();
         bob.speak();
         bob.sleep();
         bob.eat();
         bob.speak();
 
-        Rabbit musya = new Rabbit("Musya");
+        Rabbit musya = new Rabbit();
         musya.eat();
         musya.speak();
         musya.sleep();
