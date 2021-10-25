@@ -3,7 +3,7 @@ package week2.main_task.AllAnimals;
 
 public class Cat extends Animal{
     
-    String sound = "Mew-mew";
+    sound = "Mew-mew";
 
     @Override
     public void eat() {
