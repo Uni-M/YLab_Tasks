@@ -13,13 +13,12 @@ public class Cat extends Animal{
     public void eat() {
         setEating(true);
         setSleeping(false);
-        System.out.println(getName() + " is eating cat`s food");
     }
 
     @Override
     public void speak() {
         if (!getSleeping()){
-            System.out.println(getName() + " says " + getSound());
+            System.out.println(getSound());
         }
     }
 }

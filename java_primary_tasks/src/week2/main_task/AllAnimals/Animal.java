@@ -16,7 +16,6 @@ public abstract class Animal {
     public void sleep(){
         isSleeping = true;
         isEating = false;
-        System.out.println(name + " is sleeping");
     }
 
     public String getName(){

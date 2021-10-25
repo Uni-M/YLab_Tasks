@@ -11,13 +11,12 @@ public class Rabbit extends Animal{
     public void eat() {
         setEating(true);
         setSleeping(false);
-        System.out.println(getName() + " eat carrots");
     }
 
     @Override
     public void speak() {
         if (!getSleeping()){
-            System.out.println("We hear silence from " + getName());
+            System.out.println(getSound());
         }
     }
 }
