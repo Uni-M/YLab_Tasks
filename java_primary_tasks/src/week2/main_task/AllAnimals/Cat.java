@@ -2,8 +2,8 @@ package week2.main_task.AllAnimals;
 
 
 public class Cat extends Animal{
-    
-    sound = "Mew-mew";
+
+    private String sound = "Mew-mew";
 
     @Override
     public void eat() {
@@ -18,4 +18,3 @@ public class Cat extends Animal{
         }
     }
 }
-

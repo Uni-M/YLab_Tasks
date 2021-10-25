@@ -1,14 +1,16 @@
 package week2.main_task.AllAnimals;
 
 public abstract class Animal {
-  
-    public String sound;
+
+    private String sound = "";
     private boolean isEating = false;
     private boolean isSleeping = false;
 
 
 
-    public void eat();
+    public void eat(){
+        isEating = true;
+    };
     abstract void speak();
 
     public void sleep(){
