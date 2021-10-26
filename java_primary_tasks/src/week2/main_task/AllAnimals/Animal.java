@@ -7,7 +7,7 @@ public abstract class Animal {
     abstract void voice();
 
     public void speak(){
-        if (isSleeping != false){
+        if (isSleeping == false){
             voice();
         }
     }
