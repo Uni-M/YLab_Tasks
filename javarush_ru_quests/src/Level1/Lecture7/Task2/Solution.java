@@ -1,4 +1,4 @@
-package javarush.quests.Level1.Lecture7.Task2;
+package Level1.Lecture7.Task2;
 
 import java.util.Scanner;
 

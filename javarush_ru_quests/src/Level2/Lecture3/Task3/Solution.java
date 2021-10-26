@@ -1,4 +1,4 @@
-package javarush.quests.Level2.Lecture3.Task3;
+package Level2.Lecture3.Task3;
 
 //  Анализ строк
 //  Требования:

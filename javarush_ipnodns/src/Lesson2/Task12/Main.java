@@ -1,4 +1,4 @@
-package javarush.ipnodns.Lesson2.Task12;
+package Lesson2.Task12;
 
 /*
     Сумма 10 чисел

@@ -1,4 +1,4 @@
-package javarush.quests.Level1.Lecture6.Task7;
+package Level1.Lecture6.Task7;
 
 //  Правильный класс
 //  Требования:

@@ -1,4 +1,4 @@
-package javarush.ipnodns.Lesson2.Task5;
+package Lesson2.Task5;
 
 //   Создайте 10 переменных типа Cat и 8 объектов типа Cat.
 

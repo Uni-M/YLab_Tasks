@@ -1,4 +1,4 @@
-package javarush.quests.Level1.Lecture6.Task6;
+package Level1.Lecture6.Task6;
 
 //  Многострадальный метод main
 //  Требования:

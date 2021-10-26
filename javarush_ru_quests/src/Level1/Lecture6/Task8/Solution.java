@@ -1,4 +1,4 @@
-package javarush.quests.Level1.Lecture6.Task8;
+package Level1.Lecture6.Task8;
 
 //  Пакет нужен?
 //  Требования:

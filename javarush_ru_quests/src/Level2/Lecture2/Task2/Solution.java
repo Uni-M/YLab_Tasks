@@ -1,4 +1,4 @@
-package javarush.quests.Level2.Lecture2.Task2;
+package Level2.Lecture2.Task2;
 
 //  Распаковка
 //  Требования:

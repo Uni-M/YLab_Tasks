@@ -1,4 +1,4 @@
-package javarush.quests.Level1.Lecture7.Task8;
+package Level1.Lecture7.Task8;
 
 //  Студент
 //  Требования:

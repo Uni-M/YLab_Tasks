@@ -1,4 +1,4 @@
-package javarush.ipnodns.Lesson2.Task1;
+package Lesson2.Task1;
 
 //    Создать объект типа Cat 2 раза.
 

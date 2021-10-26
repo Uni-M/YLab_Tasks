@@ -1,4 +1,4 @@
-package javarush.ipnodns.Lesson1.Task2;
+package Lesson1.Task2;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package javarush.quests.Level1.Lecture7.Task3;
+package Level1.Lecture7.Task3;
 
 import java.util.Arrays;
 

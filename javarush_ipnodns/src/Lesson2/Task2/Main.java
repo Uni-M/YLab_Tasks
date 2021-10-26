@@ -1,4 +1,4 @@
-package javarush.ipnodns.Lesson2.Task2;
+package Lesson2.Task2;
 
 //   Создать 3 объекта типа Dog (собака) и присвоить им имена "Max", "Bella", "Jack".
 

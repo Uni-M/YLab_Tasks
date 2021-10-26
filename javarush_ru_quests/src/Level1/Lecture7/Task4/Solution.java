@@ -1,4 +1,4 @@
-package javarush.quests.Level1.Lecture7.Task4;
+package Level1.Lecture7.Task4;
 
 
 //  Затенение поля класса

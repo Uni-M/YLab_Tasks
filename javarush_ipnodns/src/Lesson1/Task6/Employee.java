@@ -1,4 +1,4 @@
-package javarush.ipnodns.Lesson1.Task6;
+package Lesson1.Task6;
 
 /*
     Задание: написать программу, которая выводит на экран строки:

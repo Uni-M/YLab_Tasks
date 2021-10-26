@@ -1,4 +1,4 @@
-package javarush.quests.Level1.Lecture7.Task7;
+package Level1.Lecture7.Task7;
 
 //  Составляем список студентов
 //  Требования:

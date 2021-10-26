@@ -1,4 +1,4 @@
-package javarush.ipnodns.Lesson1.Task3;
+package Lesson1.Task3;
 
 //	Раскоментируйте часть кода, чтобы на экран вывелось сообщение "Happy New Year"
 

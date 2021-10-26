@@ -1,4 +1,4 @@
-package javarush.quests.Level2.Lecture3.Task1;
+package Level2.Lecture3.Task1;
 
 //  Плата по счетам
 //  Требования:

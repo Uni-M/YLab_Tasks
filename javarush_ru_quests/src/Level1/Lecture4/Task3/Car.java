@@ -1,4 +1,4 @@
-package javarush.quests.Level1.Lecture4.Task3;
+package Level1.Lecture4.Task3;
 
 //  Одинаковые машины
 //  Требования:

@@ -1,4 +1,4 @@
-package javarush.quests.Level1.Lecture4.Task2;
+package Level1.Lecture4.Task2;
 
 //  Оконные работы
 //  Требования:

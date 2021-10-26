@@ -1,4 +1,4 @@
-package javarush.quests.Level1.Lecture3.Task1;
+package Level1.Lecture3.Task1;
 
 public class SolarSystem {
 

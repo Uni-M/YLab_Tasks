@@ -1,4 +1,4 @@
-package javarush.quests.Level2.Lecture2.Task3;
+package Level2.Lecture2.Task3;
 
 //  Сравнение чисел
 //  Требования:

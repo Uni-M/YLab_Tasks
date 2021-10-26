@@ -1,4 +1,4 @@
-package javarush.quests.Level1.Lecture4.Task1;
+package Level1.Lecture4.Task1;
 
 //  Конвертер строки
 //  Требования:

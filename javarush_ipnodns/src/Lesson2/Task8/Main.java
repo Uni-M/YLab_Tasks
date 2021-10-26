@@ -1,4 +1,4 @@
-package javarush.ipnodns.Lesson2.Task8;
+package Lesson2.Task8;
 
 //	Дата рождения
 //  Вывести на экран дату своего рождения в виде: MAY 1 2012

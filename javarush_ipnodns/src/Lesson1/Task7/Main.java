@@ -1,4 +1,4 @@
-package javarush.ipnodns.Lesson1.Task7;
+package Lesson1.Task7;
 
 //	Переставьте строки так, чтобы получился текст "Nothing personal, it's just business."
 

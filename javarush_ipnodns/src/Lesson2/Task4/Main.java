@@ -1,4 +1,4 @@
-package javarush.ipnodns.Lesson2.Task4;
+package Lesson2.Task4;
 
 //   Закоментарь несколько строк, чтобы на экран вывелось число 19
 

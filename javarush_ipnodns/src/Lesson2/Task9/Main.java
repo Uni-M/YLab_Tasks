@@ -1,4 +1,4 @@
-package javarush.ipnodns.Lesson2.Task9;
+package Lesson2.Task9;
 
 //	4 скобки
 //  Расставить правильно (по другому) скобки, чтобы на экран вывелось число 850

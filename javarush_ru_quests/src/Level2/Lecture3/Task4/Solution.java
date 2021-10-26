@@ -1,4 +1,4 @@
-package javarush.quests.Level2.Lecture3.Task4;
+package Level2.Lecture3.Task4;
 
 //  Какое число меньше
 //  Требования:

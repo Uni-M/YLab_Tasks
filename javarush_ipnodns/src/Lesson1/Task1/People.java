@@ -1,4 +1,4 @@
-package javarush.ipnodns.Lesson1.Task1;
+package Lesson1.Task1;
 
 import java.util.ArrayList;
 

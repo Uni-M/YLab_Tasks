@@ -1,4 +1,4 @@
-package javarush.quests.Level1.Lecture5.Task3;
+package Level1.Lecture5.Task3;
 
 //  Объекты внутренних и вложенных классов
 //Требования:

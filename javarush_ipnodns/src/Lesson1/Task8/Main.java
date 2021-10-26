@@ -1,4 +1,4 @@
-package javarush.ipnodns.Lesson1.Task8;
+package Lesson1.Task8;
 
 // Объявите недостающие переменные и закоментарьте те, которые нигде не используются.
 

@@ -1,4 +1,4 @@
-package javarush.ipnodns.Lesson1.Task5;
+package Lesson1.Task5;
 /*
     Задание: вывести на экран текст
     Меня зовут Амиго.

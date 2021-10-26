@@ -1,4 +1,4 @@
-package javarush.quests.Level1.Lecture6.Task3;
+package Level1.Lecture6.Task3;
 
 //  Кон, котэ и нация
 //  Требования:

@@ -1,4 +1,4 @@
-package javarush.quests.Level2.Lecture4.Task2;
+package Level2.Lecture4.Task2;
 
 import java.util.ArrayList;
 

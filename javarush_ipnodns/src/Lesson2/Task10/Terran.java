@@ -1,4 +1,4 @@
-package javarush.ipnodns.Lesson2.Task10;
+package Lesson2.Task10;
 
 public class Terran {
     private String name;

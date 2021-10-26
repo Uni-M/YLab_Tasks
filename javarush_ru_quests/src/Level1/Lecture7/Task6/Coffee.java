@@ -1,4 +1,4 @@
-package javarush.quests.Level1.Lecture7.Task6;
+package Level1.Lecture7.Task6;
 
 //  MacCoffee 3 в 1
 //  Требования:

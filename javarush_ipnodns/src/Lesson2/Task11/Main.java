@@ -1,4 +1,4 @@
-package javarush.ipnodns.Lesson2.Task11;
+package Lesson2.Task11;
 
 //  Произведение 10 чисел
 //  Вывести на экран произведение чисел от 1 до 10.

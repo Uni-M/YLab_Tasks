@@ -1,4 +1,4 @@
-package javarush.quests.Level1.Lecture7.Task1;
+package Level1.Lecture7.Task1;
 
 import java.util.Objects;
 

@@ -1,4 +1,4 @@
-package javarush.ipnodns.Lesson2.Task3;
+package Lesson2.Task3;
 
 //   Напиши программу, которая выводит на экран надпись: «Мне так плохо! Хочу, чтобы все умерли!».
 

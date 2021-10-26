@@ -1,4 +1,4 @@
-package javarush.ipnodns.Lesson2.Task6;
+package Lesson2.Task6;
 
 //  Создайте объект типа Cat(кот), объект типа Dog (собака), объект типа Fish (рыбка) и объект типа Woman.
 //  Присвойте каждому животному владельца (owner).

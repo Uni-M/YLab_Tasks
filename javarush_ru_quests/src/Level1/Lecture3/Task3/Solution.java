@@ -1,4 +1,4 @@
-package javarush.quests.Level1.Lecture3.Task3;
+package Level1.Lecture3.Task3;
 
 //  Презентация роботов
 //  Требования:

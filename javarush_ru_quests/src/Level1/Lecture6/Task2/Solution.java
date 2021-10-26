@@ -1,4 +1,4 @@
-package javarush.quests.Level1.Lecture6.Task2;
+package Level1.Lecture6.Task2;
 
 //  Ох уж эти кавычки
 //  Требования:

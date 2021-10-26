@@ -1,4 +1,4 @@
-package javarush.quests.Level1.Lecture5.Task1;
+package Level1.Lecture5.Task1;
 
 //  Двигатель — сердце автомобиля
 //  Требования:

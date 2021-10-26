@@ -1,4 +1,4 @@
-package javarush.quests.Level1.Lecture5.Task2;
+package Level1.Lecture5.Task2;
 
 //  Утильный калькулятор
 //Требования:

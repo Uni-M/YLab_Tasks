@@ -1,4 +1,4 @@
-package javarush.quests.Level1.Lecture7.Task10;
+package Level1.Lecture7.Task10;
 
 //  Текстовые цифры
 //  Требования:

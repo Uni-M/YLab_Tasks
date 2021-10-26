@@ -1,4 +1,4 @@
-package javarush.quests.Level1.Lecture6.Task1;
+package Level1.Lecture6.Task1;
 
 //  Точка и запятая
 //  Требования:

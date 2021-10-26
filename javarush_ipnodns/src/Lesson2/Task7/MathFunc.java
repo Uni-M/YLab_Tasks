@@ -1,4 +1,4 @@
-package javarush.ipnodns.Lesson2.Task7;
+package Lesson2.Task7;
 
 public class MathFunc {
     public static int min(int a, int b){

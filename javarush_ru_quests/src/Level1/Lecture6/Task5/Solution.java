@@ -1,4 +1,4 @@
-package javarush.quests.Level1.Lecture6.Task5;
+package Level1.Lecture6.Task5;
 
 //  И снова скобки
 //  Требования:

@@ -1,4 +1,4 @@
-package javarush.ipnodns.Lesson2.Task10;
+package Lesson2.Task10;
 
 //  StarCraft
 //  Создать 10 зергов, 5 протосов и 12 терран.

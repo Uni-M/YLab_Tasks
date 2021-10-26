@@ -1,4 +1,4 @@
-package javarush.ipnodns.Lesson1.Task9;
+package Lesson1.Task9;
 
 // 	Напиши программу, которая выводит на экран надпись: «Слава Роботам! Убить всех человеков!» 16 раз.
 
